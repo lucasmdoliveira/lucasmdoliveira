@@ -6,4 +6,6 @@ e Design UI/UX, mas tenho interesse em aprender mais sobre qualquer área de tec
 em Python. 
 
  📫 lucasmdoliveira@alu.ufc.br
+ 
+ ![woahlucas Status](https://github-readme-stats.vercel.app/api?username=woahlucas&show_icons=true)
 
