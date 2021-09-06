@@ -6,3 +6,5 @@ e Design UI/UX, mas tenho interesse em aprender mais sobre qualquer área de tec
 em Python. 
 
  📫 lucasmdoliveira@alu.ufc.br
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
