@@ -9,8 +9,8 @@ e Design UI/UX. Também faço artes 3D no Blender no tempo livre!
 ##
 
  <div align="left">
-  <a href="https://github.com/woahlucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=woahlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lucasmdoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmdoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
  
@@ -27,5 +27,5 @@ e Design UI/UX. Também faço artes 3D no Blender no tempo livre!
  <div> 
   <a href="https://linkedin.com/in/lucasmdoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/woahlucas/woahlucas/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lucasmdoliveira/lucasmdoliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
