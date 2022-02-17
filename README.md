@@ -27,5 +27,5 @@ e Design UI/UX. Também faço artes 3D no Blender no tempo livre!
  <div> 
   <a href="https://linkedin.com/in/lucasmdoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ ![Snake animation](https://github.com/woahlucas/woahlucas/blob/output/github-contribution-grid-snake.svg)
 </div>
