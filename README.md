@@ -11,6 +11,7 @@ e Design UI/UX. Também faço artes 3D no Blender no tempo livre!
  <div align="left">
   <a href="https://github.com/woahlucas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=woahlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   &nbsp
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woahlucas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
