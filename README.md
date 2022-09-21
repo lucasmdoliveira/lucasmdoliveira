@@ -20,6 +20,8 @@ sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolv
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woahlucas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?woahlucas" frameborder="0"></iframe>
  
  ##
 
