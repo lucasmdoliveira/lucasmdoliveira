@@ -1,4 +1,4 @@
-👋 Oi! Me chamo Lucas de Oliveira, sou estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará e atualmente 
+👋 Oi! Me chamo Lucas, sou estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará e atualmente 
 sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolvimento de Software. 
 
 🚀 Tenho experiência com: HTML, CSS, JavaScript e React
@@ -7,7 +7,7 @@ sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolv
 
 --------------------------------------------------
 
-👋 Hi! I'm, I study Digital Systems and Media in the federal university of Ceará. My current position is Requirements Analyst at Dell Lead and I focus my studies in the software development area.
+👋 Hi! I'm Lucas, I study Digital Systems and Media in the federal university of Ceará. My current position is Requirements Analyst at Dell Lead and I focus my studies in the software development area.
 
 🚀 I have experience in: HTML, CSS, JavaScript and React
 
