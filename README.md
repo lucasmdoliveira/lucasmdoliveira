@@ -1,17 +1,15 @@
-👋 Oi! Me chamo Lucas, sou estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará e atualmente 
-sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolvimento de Software. 
+💻 Software Development Student
 
-🚀 Tenho experiência com: HTML, CSS e JavaScript
+📝 Requirements Analyst at Dell Lead
 
-🌱 Estou estudando: Python, Java
-
---------------------------------------------------
-
-👋 Hi! I'm Lucas, I study Digital Systems and Media in the federal university of Ceará. My current position is Requirements Analyst at Dell Lead and I focus my studies in the software development area.
-
-🚀 I have experience in: HTML, CSS and JavaScript
+🚀 I have experience in: HTML, CSS e JavaScript
 
 🌱 Currently studying: Python, Java
+
+🤖 Always seeking to learn new technologies
+
+😊 Pronouns: He/him
+
 
  <div align="left">
   <a href="https://github.com/woahlucas">
