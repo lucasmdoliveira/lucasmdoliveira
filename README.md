@@ -1,14 +1,13 @@
-💻 Software Development Student
+<ul> 
+<li>💻 Software Development Student </li>
+<li>📝 Requirements Analyst at Dell Lead </li>
+<li>🚀 Experience in: HTML, CSS e JavaScript </li>
+<li>🌱 Currently studying: Python, Java </li>
+<li>🤖 Always seeking to learn new technologies </li>
+<li>😊 Pronouns: He/him </li>
+</ul>
 
-📝 Requirements Analyst at Dell Lead
 
-🚀 I have experience in: HTML, CSS e JavaScript
-
-🌱 Currently studying: Python, Java
-
-🤖 Always seeking to learn new technologies
-
-😊 Pronouns: He/him
 
 
  <div align="left">
