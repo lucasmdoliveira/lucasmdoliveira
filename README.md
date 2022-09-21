@@ -1,12 +1,17 @@
 👋 Oi! Me chamo Lucas de Oliveira, sou estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará e atualmente 
-sou Analista de Requisitos na Dell Lead. Meus estudos estão focados nas áreas de Desenvolvimento de Software
-e Design UI/UX. Também faço artes 3D no Blender no tempo livre! 
+sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolvimento de Software. 
 
-🌱 Possuo conhecimento em HTML, CSS e JavaScript.
+🚀 Tenho experiência com: HTML, CSS, JavaScript e React
 
-🦄 Ele/dele
+🌱 Estou estudando: Python, Java
 
-##
+--------------------------------------------------
+
+👋 Hi! I'm, I study Digital Systems and Media in the federal university of Ceará. My current position is Requirements Analyst at Dell Lead and I focus my studies in the software development area.
+
+🚀 I have experience in: HTML, CSS, JavaScript and React
+
+🌱 Currently studying: Python, Java
 
  <div align="left">
   <a href="https://github.com/woahlucas">
