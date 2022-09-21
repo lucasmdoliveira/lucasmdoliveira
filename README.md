@@ -7,10 +7,7 @@
 <li>😊 Pronouns: He/him </li>
 </ul>
 
-
-
-
-
+<br>
 
  <div align="left">
   <a href="https://github.com/woahlucas">
@@ -19,6 +16,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woahlucas&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woahlucas&theme=tokyonight)
 
  
  ##
