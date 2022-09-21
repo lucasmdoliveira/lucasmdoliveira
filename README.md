@@ -21,7 +21,6 @@ sou Analista de Requisitos na Dell Lead. Foco meus estudos na área de Desenvolv
 </div>
 </div>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?woahlucas" frameborder="0"></iframe>
  
  ##
 
